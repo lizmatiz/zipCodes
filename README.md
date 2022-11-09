@@ -2,7 +2,7 @@
 
 ### How to compile
 ```sh
- g++ -Wall zip_codes.cc
+g++ -Wall zip_codes.cc
 ````
 
 ##### - Include codes_in.txt in the same folder as zip_codes.cc
